@@ -1,0 +1,4 @@
+# General in Github: gitignore: macOS
+.DS_Store
+.AppleDouble
+.LSOverride
